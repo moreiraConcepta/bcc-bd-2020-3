@@ -1,4 +1,5 @@
 ## Bem-vindo à disciplina Banco de Dados
+**<< Oferta 2020.2 para Bacharelado em Ciência da Computação >>**
 
 O plano da disciplina está disponível [aqui](./media/plano.pdf). Recomendações sobre direitos autorais [aqui](./media/recomendacao-prograd.pdf). Os
 momentos síncronos ocorrerão na sala [virtual](https://meet.google.com/lookup/awkznsp2o3) das 19h às 20h, toda terça-feira.
@@ -11,4 +12,5 @@ momentos síncronos ocorrerão na sala [virtual](https://meet.google.com/lookup/
 ### Avisos ativos
 
 - Consultem com frequência os avisos ativos
+
 
