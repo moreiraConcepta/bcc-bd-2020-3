@@ -1,21 +1,10 @@
-## [BCC-2020.2]()  Bem-vindo à disciplina Banco de Dados
+## [BCC-2020.2]  Bem-vindo à disciplina Banco de Dados
 
 O plano da disciplina está disponível [aqui](./media/plano.pdf). Recomendações sobre direitos autorais [aqui](./media/recomendacao-prograd.pdf). Os
 momentos síncronos ocorrerão na sala [virtual](https://meet.google.com/lookup/awkznsp2o3) das 19h às 20h, toda terça-feira.
 
-<div class="bg-blue-light mb-2">
-  .text-gray-dark on .bg-blue-light
-</div>
-<div class="text-white bg-red mb-2">
-  .text-white on .bg-red
-</div>
-<div class="text-red bg-red-light mb-2">
-  .text-red on .bg-red-light
-</div>
 
-<div class="text-purple">
-  This text is purple, <a href="#" class="text-inherit">including the link</a>
-</div>
+<html> <p style="color:red">This is a paragraph.</p> </html>
 
 ### Tópicos (primeiros contatos)
 
