@@ -3,8 +3,13 @@
 O plano da disciplina está disponível [aqui](./media/plano.pdf). Recomendações sobre direitos autorais [aqui](./media/recomendacao-prograd.pdf). Os
 momentos síncronos ocorrerão na sala [virtual](https://meet.google.com/lookup/awkznsp2o3) das 19h às 20h, toda terça-feira.
 
-
-<html> <p style="color:red">This is a paragraph.</p> </html>
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
 
 ### Tópicos (primeiros contatos)
 
