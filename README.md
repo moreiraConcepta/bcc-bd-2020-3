@@ -1,5 +1,5 @@
 ```diff
-- ## [BCC-2020.2]  Bem-vindo à disciplina Banco de Dados
+## - ## [BCC-2020.2]  Bem-vindo à disciplina Banco de Dados
 ```
 
 O plano da disciplina está disponível [aqui](./media/plano.pdf). Recomendações sobre direitos autorais [aqui](./media/recomendacao-prograd.pdf). Os
