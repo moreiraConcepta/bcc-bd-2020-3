@@ -2,8 +2,8 @@
 ## - ## [BCC-2020.2]  Bem-vindo à disciplina Banco de Dados
 ```
 
-O plano da disciplina está disponível [aqui](./media/plano.pdf). Recomendações sobre direitos autorais [aqui](./media/recomendacao-prograd.pdf). Os
-momentos síncronos ocorrerão na sala [virtual](https://meet.google.com/lookup/awkznsp2o3) das 19h às 20h, toda terça-feira.
+O plano da disciplina está disponível [aqui](./media/bcc-bd-2020-2-plano.pdf). Recomendações sobre direitos autorais [aqui](./media/recomendacao-prograd.pdf). Os
+momentos síncronos ocorrerão na sala [virtual](https://meet.google.com/qed-ntax-ykm) das 19h às 20h, toda terça-feira.
 
 ```diff
 - text in red
