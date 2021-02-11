@@ -1,6 +1,7 @@
 
-## Bacherelado em Ciência da Computação (BCC)
-## Bem-vindo à disciplina **BANCO DE DADOS** - Semestre 2020/2
+## Bem-vindo à disciplina **BANCO DE DADOS**
+### Bacherelado em Ciência da Computação (BCC) - Semestre 2020/2
+
 
 O plano da disciplina está disponível [aqui](./media/bcc-bd-2020-2-plano.pdf). Recomendações sobre direitos autorais [aqui](./media/recomendacao-prograd.pdf). Os
 momentos síncronos ocorrerão na sala [virtual](https://meet.google.com/qed-ntax-ykm) das 19h às 20h, toda terça-feira.
