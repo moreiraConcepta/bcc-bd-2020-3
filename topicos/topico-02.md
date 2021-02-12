@@ -1,7 +1,8 @@
 ### Tópico T02 (data limite: **28/02/2021 23h59min59s**)
 
-#### Assunto
-- O que é Banco de Dados?
+#### Assunto - O que é Banco de Dados?
+
+1. Algumas definições:
   - WIEDERHOLD - Um banco de dados é uma coleção de dados mutuamente relacionados.
   - CHU - Um banco de dados é um conjunto de dados relacionados entre si.
   - DATE - Um banco de dados é uma coleção de dados operacionais armazenados usados pelos sistemas de uma determinada aplicação.
