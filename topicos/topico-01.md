@@ -1,11 +1,10 @@
-### Tópico T01 (data limite: **28/02/2021 23h59min59s**)
+### [Tópico T01] - Ambientação com a disciplina (objetivos e metodologia)
 
-#### Assunto: Ambientação com a disciplina (objetivos e metodologia).
-- Apresentação da disciplina ([aqui](https://drive.google.com/file/d/1S2_4pxCAdZfDsW2Fu4gRPeWTdzEM6-1Q/view?usp=sharing))
-- Leia o [plano](../media/bcc-bd-2020-2-plano.pdf).
-- Esclareça suas dúvidas (veja detalhes abaixo).
+Assista à apresentação da disciplina ([aqui](https://drive.google.com/file/d/1S2_4pxCAdZfDsW2Fu4gRPeWTdzEM6-1Q/view?usp=sharing))
+Leia o [plano](../media/bcc-bd-2020-2-plano.pdf).
+Esclareça suas dúvidas (veja detalhes abaixo).
 
-#### Atividade:
+#### Atividade (data limite: **03/03/2021 23h59min59s**):
 1. Criar conta no Github (https://github.com), caso não possua uma. 
 1. **Na sua conta do GitHub**, criar um repositório necessariamente '**publico**' de nome **bcc-bd-2020-2**:
    - ou seja, letras minúsculas e hífen para separar **bcc-bd** do número **2020**, e outro hífen para separar este número do dígito **2**;
