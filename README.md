@@ -1,4 +1,16 @@
-```diff + Bacharelado em Ciência da Computação ```
+```html
+<!DOCTYPE html>
+<html>
+    <head>
+        <mate charest="utf-8" />
+        <title>Hello world!</title>
+    </head>
+    <body>
+        <h1>Hello world!</h1>
+    </body>
+</html>
+```
+
 ## [bcc-bd-2020-2] Bem-vindo à disciplina **BANCO DE DADOS**
 
 O plano da disciplina está disponível [aqui](./media/bcc-bd-2020-2-plano.pdf). Recomendações sobre direitos autorais [aqui](./media/recomendacao-prograd.pdf). Os
