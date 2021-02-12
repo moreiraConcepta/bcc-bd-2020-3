@@ -19,7 +19,7 @@ Sobre o **software** que gerencia o banco de dados, alguns de seus possíveis pa
 
 ### Atividade (data limite: **03/03/2021 23h59min59s**)
 
-Criar uma _issue_ no projeto https://github.com/plinioleitao/bcc-bd-2020-2, com o título "Tópico 02", para responder as seguintes questões:  
+Criar uma _issue_ no projeto https://github.com/plinioleitao/bcc-bd-2020-2, com o título "Tópico 02", para responder as duas questões a seguir:  
 1. Sobre as seis definições apresentadas no início deste tópico, analise as diferenças entre as definições, com especial atenção aos termos específicos de algumas delas, tais como 'operacionais' e 'usados'. Apresente a sua definição sobre 'o que banco de dados', tal que englobe o conteúdo das seis definições apresentadas, mas não use os termos (palavras) já presentes nas seis definições.
 1. Sobre os possíveis papéis do **software** que gerencia o banco de dados, observe que há termos assinalados em negrito e itálico e seguidos de (??), tais como ***linguagem de consulta*** e ***durabilidade***. Escola 03 (três) desses termos, pesquise e apresente o seu entendimento sobre os termos escolhidos.
    
