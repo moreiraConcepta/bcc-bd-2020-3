@@ -1,5 +1,4 @@
 ### Tópico T02 - O que é Banco de Dados?
-#### Data limite: **28/02/2021 23h59min59s**)
 
 1. Algumas definições:
   - WIEDERHOLD - Um banco de dados é uma coleção de dados mutuamente relacionados.
@@ -10,7 +9,7 @@
   - ENGLES - Um banco de dados é uma coleção de dados operacionais usados pelo sistema de aplicações de uma empresa.
 
 
-#### Atividade:
+#### Atividade - data limite: **28/02/2021 23h59min59s**
 1. Criar conta no Github (https://github.com), caso não possua uma. 
 1. **Na sua conta do GitHub**, criar um repositório necessariamente '**publico**' de nome **bcc-bd-2020-2**:
    - ou seja, letras minúsculas e hífen para separar **bcc-bd** do número **2020**, e outro hífen para separar este número do dígito **2**;
