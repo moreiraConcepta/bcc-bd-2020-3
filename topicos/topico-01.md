@@ -1,8 +1,8 @@
 ### [Tópico T01] - Ambientação com a disciplina (objetivos e metodologia)
 
-Assista à apresentação da disciplina ([aqui](https://drive.google.com/file/d/1S2_4pxCAdZfDsW2Fu4gRPeWTdzEM6-1Q/view?usp=sharing))
-Leia o [plano](../media/bcc-bd-2020-2-plano.pdf).
-Esclareça suas dúvidas (veja detalhes abaixo).
+Assista à apresentação da disciplina ([aqui](https://drive.google.com/file/d/1S2_4pxCAdZfDsW2Fu4gRPeWTdzEM6-1Q/view?usp=sharing)).<br>
+Leia o [plano](../media/bcc-bd-2020-2-plano.pdf).<br>
+Esclareça suas dúvidas.<br>
 
 #### Atividade (data limite: **03/03/2021 23h59min59s**):
 1. Criar conta no Github (https://github.com), caso não possua uma. 
