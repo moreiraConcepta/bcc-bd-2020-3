@@ -11,11 +11,12 @@ Algumas definições:
 Para simplificar, um banco de dados é uma coleção de dados relacionados, que existe por um período de tempo, geralmente muitos anos. Em linguagem comum, o termo **banco de dados** se refere a uma coleção de dados gerenciada por software. 
 
 Sobre o **software** que gerencia o banco de dados, algumas de seus possíveis papéis são:
-1. Permitir que os _usuários_ (o que?) _criem novos bancos de dados_ (??) e especifiquem seus _esquemas_ (o que?), usando uma _linguagem de definição de dados_ (o que?) especializada.
-2. Dar aos usuários (o que?) a capacidade de _consultar os dados_ (uma uma pergunta sobre os dados?) e modificar os dados, usando uma linguagem apropriada, geralmente chamada de linguagem de consulta ou linguagem de manipulação de dados.
-3. Suportar o armazenamento de grandes quantidades de dados - muitos terabytes ou mais - por um longo período de tempo, permitindo acesso eficiente aos dados para consultas e modificações no banco de dados.
-4. Habilite a durabilidade, a recuperação do banco de dados diante de falhas, erros de vários tipos ou uso indevido intencional.
-5. Controle o acesso aos dados de vários usuários ao mesmo tempo, sem permitir interações inesperadas entre os usuários (chamadas de isolamento) e sem que ações nos dados sejam realizadas parcialmente, mas não completamente (chamadas de atomicidade).
+1. Permitir que os _usuários_ (o que?) _criem novos bancos de dados_ (??) e especifiquem seus _esquemas_ (??), usando uma _linguagem de definição de dados_ (??) especializada.
+2. Dar aos usuários a capacidade de _consultar os dados_ (??) e _modificar os dados_ (??), usando uma linguagem apropriada, geralmente chamada de _linguagem de consulta_ (??) ou _linguagem de manipulação de dados_ (??).
+3. Suportar o _armazenamento de grande volume de dados_ (??) - muitos terabytes ou mais - por um longo período de tempo, permitindo _acesso eficiente_ (??) aos dados para consultas e modificações no banco de dados.
+4. Habilitar a _durabilidade_ (??), a _recuperação após falhas_ (??) do banco de dados, erros de vários tipos ou _uso indevido intencional_ (??).
+5. _Controlar o acesso aos dados de vários usuários ao mesmo tempo_ (??), sem permitir _interferências inesperadas_ (??) entre os usuários (chamadas de isolamento) e sem que _ações nos dados sejam realizadas parcialmente_ (??) (em vez de ações completas).
+
 ## Atividade (data limite: **28/02/2021 23h59min59s**)
 1. Criar conta no Github (https://github.com), caso não possua uma. 
 1. **Na sua conta do GitHub**, criar um repositório necessariamente '**publico**' de nome **bcc-bd-2020-2**:
