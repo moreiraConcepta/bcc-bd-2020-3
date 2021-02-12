@@ -1,8 +1,8 @@
 ## [bcc-bd-2020-2] Bem-vindo à disciplina **BANCO DE DADOS**
 
-O plano da disciplina está disponível [aqui](./media/bcc-bd-2020-2-plano.pdf). 
-Recomendações sobre direitos autorais [aqui](./media/recomendacao-prograd.pdf). 
-Os momentos síncronos ocorrerão na sala [virtual](https://meet.google.com/qed-ntax-ykm) no intervalo 16h00-16h50, toda segunda e quinta-feira.
+O plano da disciplina está disponível [aqui](./media/bcc-bd-2020-2-plano.pdf).<br>
+Recomendações sobre direitos autorais [aqui](./media/recomendacao-prograd.pdf).<br>
+Os momentos síncronos ocorrerão na sala [https://meet.google.com/qed-ntax-ykm](https://meet.google.com/qed-ntax-ykm), 16h00-16h50, segunda-feira e quinta-feira.
 
 ### Tópicos (primeiros contatos)
 
