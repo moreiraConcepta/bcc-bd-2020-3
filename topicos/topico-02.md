@@ -17,6 +17,6 @@ Sobre o **software** que gerencia o banco de dados, alguns de seus possíveis pa
 4. Habilitar a ***durabilidade*** (??) e a ***recuperação após falhas***_ (??) do banco de dados, devido a ***erros de vários tipos*** (??) ou ***uso indevido intencional*** (??).
 5. ***Controlar o acesso aos dados de vários usuários ao mesmo tempo*** (??), sem permitir ***interferências inesperadas entre os usuários*** (??) e sem que ***ações nos dados sejam realizadas parcialmente*** (??) (em vez de ações completas).
 
-## Atividade (data limite: **03/03/2021 23h59min59s**)
+### Atividade (data limite: **03/03/2021 23h59min59s**)
    
-## Artefatos
+### Artefatos
