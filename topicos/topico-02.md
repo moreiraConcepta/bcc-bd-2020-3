@@ -1,6 +1,5 @@
-### Tópico T02 (data limite: **28/02/2021 23h59min59s**)
-
-#### Assunto - O que é Banco de Dados?
+### Tópico T02 - O que é Banco de Dados?
+#### Data limite: **28/02/2021 23h59min59s**)
 
 1. Algumas definições:
   - WIEDERHOLD - Um banco de dados é uma coleção de dados mutuamente relacionados.
