@@ -6,11 +6,12 @@ Os momentos síncronos ocorrerão na sala [https://meet.google.com/qed-ntax-ykm]
 
 ### Tópicos
 
-- [T01](topicos/topico-01.md) (data limite: **28/02/2021 23h59min59s**)
+- [T01](topicos/topico-01.md) (data limite: **03/03/2021 23h59min59s**)
+- [T02](topicos/topico-02.md) (data limite: **03/03/2021 23h59min59s**)
 
 ### Avisos ativos
 
-- O **Tópico T01** se refere à criação de um repositório **público** no **GitHub** para cada aluno.
+- Importante: O **Tópico T01** se refere à criação de um repositório **público** no **GitHub** para cada aluno.
 <br>
 <br>
 <img src="./media/campaign-creators-IKHvOlZFCOg-unsplash.jpg" width="350">
