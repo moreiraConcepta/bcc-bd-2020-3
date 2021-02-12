@@ -4,10 +4,11 @@ O plano da disciplina está disponível [aqui](./media/bcc-bd-2020-2-plano.pdf).
 Recomendações sobre direitos autorais [aqui](./media/recomendacao-prograd.pdf).<br>
 Os momentos síncronos ocorrerão na sala [https://meet.google.com/qed-ntax-ykm](https://meet.google.com/qed-ntax-ykm), 16h00-16h50, segunda-feira e quinta-feira.
 
-### Tópicos
+### Tópicos recentes
 
 - [Tópico 01](topicos/topico-01.md) (data limite: **03/03/2021 23h59min59s**)
 - [Tópico 02](topicos/topico-02.md) (data limite: **03/03/2021 23h59min59s**)
+- [Todos os tópicos](topicos/topicos.md)
 
 ### Avisos ativos
 
