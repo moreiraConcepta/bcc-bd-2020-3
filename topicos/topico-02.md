@@ -32,4 +32,4 @@ Sobre o **software** que gerencia o banco de dados, algumas de seus possíveis p
 ## Artefatos
 
 1. Repositório público criado no **Github**, cujo nome é https://github.com/nomealuno/bcc-bd-2020-01 , onde **nomealuno** é o nome da conta do aluno no Github.
-1. Issue criada pela conta do estudante no projeto https://github.com/plinioleitao/bcc-bd-2020-2 , cujo título é "Tópico 01" , para indicar seus dados para efeito da disciplina.
+1. Issue criada no projeto https://github.com/plinioleitao/bcc-bd-2020-2 , cujo título é "Tópico 01" , para indicar seus dados para efeito da disciplina.
