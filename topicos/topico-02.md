@@ -2,9 +2,13 @@
 
 #### Assunto
 - O que é Banco de Dados?
-  - Apresentação da disciplina ([aqui](https://drive.google.com/file/d/1S2_4pxCAdZfDsW2Fu4gRPeWTdzEM6-1Q/view?usp=sharing))
-  - Leia o [plano](../media/bcc-bd-2020-2-plano.pdf).
-  - Esclareça suas dúvidas (veja detalhes abaixo).
+  - WIEDERHOLD - Um banco de dados é uma coleção de dados mutuamente relacionados.
+  - CHU - Um banco de dados é um conjunto de dados relacionados entre si.
+  - DATE - Um banco de dados é uma coleção de dados operacionais armazenados usados pelos sistemas de uma determinada aplicação.
+  - SILBERSCHATZ, KORTH, SUDARSHAN - Um banco de dados é uma coleção de dados que contém informação de um particular empreendimento.
+  - ELMASRI, NAVATHE - Um banco de dados é uma coleção de dados relacionados.
+  - ENGLES - Um banco de dados é uma coleção de dados operacionais usados pelo sistema de aplicações de uma empresa.
+
 
 #### Atividade:
 1. Criar conta no Github (https://github.com), caso não possua uma. 
