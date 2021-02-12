@@ -21,4 +21,6 @@ momentos síncronos ocorrerão na sala [virtual](https://meet.google.com/qed-nta
 
 - Consultem com frequência os avisos ativos
 
+<img src="./media/campaign-creators-IKHvOlZFCOg-unsplash.jpg" width="350">
+
 
