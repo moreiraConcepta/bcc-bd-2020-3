@@ -11,8 +11,8 @@ Algumas definições:
 Para simplificar, um banco de dados é uma coleção de dados relacionados, que existe por um período de tempo, geralmente muitos anos. Em linguagem comum, o termo **banco de dados** se refere a uma coleção de dados gerenciada por software. 
 
 Sobre o **software** que gerencia o banco de dados, algumas de seus possíveis papéis são:
-1. Permitir que os _usuários_ (o que?) criem novos bancos de dados e especifiquem seus _esquemas_ (o que?), usando uma _linguagem de definição de dados_ (o que?) especializada.
-2. Dar aos usuários (o que?) a capacidade de consultar os dados (uma “consulta” é um jargão de banco de dados para uma pergunta sobre os dados) e modificar os dados, usando uma linguagem apropriada, geralmente chamada de linguagem de consulta ou linguagem de manipulação de dados.
+1. Permitir que os _usuários_ (o que?) _criem novos bancos de dados_ (??) e especifiquem seus _esquemas_ (o que?), usando uma _linguagem de definição de dados_ (o que?) especializada.
+2. Dar aos usuários (o que?) a capacidade de _consultar os dados_ (uma uma pergunta sobre os dados?) e modificar os dados, usando uma linguagem apropriada, geralmente chamada de linguagem de consulta ou linguagem de manipulação de dados.
 3. Suportar o armazenamento de grandes quantidades de dados - muitos terabytes ou mais - por um longo período de tempo, permitindo acesso eficiente aos dados para consultas e modificações no banco de dados.
 4. Habilite a durabilidade, a recuperação do banco de dados diante de falhas, erros de vários tipos ou uso indevido intencional.
 5. Controle o acesso aos dados de vários usuários ao mesmo tempo, sem permitir interações inesperadas entre os usuários (chamadas de isolamento) e sem que ações nos dados sejam realizadas parcialmente, mas não completamente (chamadas de atomicidade).
