@@ -1,19 +1,8 @@
-```html
-<Bacharelado em Ciência da Computação>
-```
-
 ## [bcc-bd-2020-2] Bem-vindo à disciplina **BANCO DE DADOS**
 
-O plano da disciplina está disponível [aqui](./media/bcc-bd-2020-2-plano.pdf). Recomendações sobre direitos autorais [aqui](./media/recomendacao-prograd.pdf). Os
-momentos síncronos ocorrerão na sala [virtual](https://meet.google.com/qed-ntax-ykm) das 19h às 20h, toda terça-feira.
-
-```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
+O plano da disciplina está disponível [aqui](./media/bcc-bd-2020-2-plano.pdf). 
+Recomendações sobre direitos autorais [aqui](./media/recomendacao-prograd.pdf). 
+Os momentos síncronos ocorrerão na sala [virtual](https://meet.google.com/qed-ntax-ykm) no intervalo 16h00-16h50, toda segunda e quinta-feira.
 
 ### Tópicos (primeiros contatos)
 
