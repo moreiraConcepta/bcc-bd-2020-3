@@ -1,4 +1,4 @@
-## Bem-vindo à disciplina **BANCO DE DADOS** - [Ciência da Computação]
+## Bem-vindo à disciplina **BANCO DE DADOS**, oferta 2020/2 - [Ciência da Computação]
 
 O plano da disciplina está disponível [aqui](./media/bcc-bd-2020-2-plano.pdf).<br>
 Recomendações sobre direitos autorais [aqui](./media/recomendacao-prograd.pdf).<br>
