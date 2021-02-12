@@ -10,7 +10,7 @@ Os momentos síncronos ocorrerão na sala [https://meet.google.com/qed-ntax-ykm]
 
 ### Avisos ativos
 
-- O ***Tópico T01*** se refere à criação de um repositório para cada aluno.
+- O **Tópico T01** se refere à criação de um repositório **público** no **GitHub** para cada aluno.
 <br>
 <br>
 <img src="./media/campaign-creators-IKHvOlZFCOg-unsplash.jpg" width="350">
