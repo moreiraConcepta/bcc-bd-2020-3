@@ -6,8 +6,8 @@ Os momentos síncronos ocorrerão na sala [https://meet.google.com/qed-ntax-ykm]
 
 ### Tópicos
 
-- [T01](topicos/topico-01.md) (data limite: **03/03/2021 23h59min59s**)
-- [T02](topicos/topico-02.md) (data limite: **03/03/2021 23h59min59s**)
+- [Tópico 01](topicos/topico-01.md) (data limite: **03/03/2021 23h59min59s**)
+- [Tópico 02](topicos/topico-02.md) (data limite: **03/03/2021 23h59min59s**)
 
 ### Avisos ativos
 
