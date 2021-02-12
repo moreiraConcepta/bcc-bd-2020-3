@@ -4,7 +4,7 @@ Assista à apresentação da disciplina ([aqui](https://drive.google.com/file/d/
 Leia o [plano](../media/bcc-bd-2020-2-plano.pdf).<br>
 Esclareça suas dúvidas.<br>
 
-### Atividade (data limite: **03/03/2021 23h59min59s**):
+### Atividade (data limite: **03/03/2021 23h59min59s**)
 
 1. Criar conta no Github (https://github.com), caso não possua uma. 
 1. **Na sua conta do GitHub**, criar um repositório necessariamente '**publico**' de nome **bcc-bd-2020-2**:
