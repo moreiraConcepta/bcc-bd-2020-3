@@ -1,6 +1,4 @@
-```diff
-+ Bacharelado em Ciência da Computação
-```
+```diff + Bacharelado em Ciência da Computação ```
 ## [bcc-bd-2020-2] Bem-vindo à disciplina **BANCO DE DADOS**
 
 O plano da disciplina está disponível [aqui](./media/bcc-bd-2020-2-plano.pdf). Recomendações sobre direitos autorais [aqui](./media/recomendacao-prograd.pdf). Os
