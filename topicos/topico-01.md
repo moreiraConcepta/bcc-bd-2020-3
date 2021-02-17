@@ -13,7 +13,6 @@ Esclareça suas dúvidas.<br>
 1. Criar uma _issue_ no projeto https://github.com/plinioleitao/bcc-bd-2020-2. Esta _issue_ irá identificar cada estudante da disciplina:
    - o título da _issue_ deve ser "Tópico 01";
    - o conteúdo (corpo) da _issue_ deve possuir:
-     - Meu nome: coloque aqui o seu nome completo. 
      - Meu registro acadêmico: coloque aqui o seu registro acadêmico (ou seja, número de matrícula).
      - Minha conta no Github: coloque aqui a URL do seu repositório recém-criado.
    
