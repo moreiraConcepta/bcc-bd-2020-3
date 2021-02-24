@@ -33,7 +33,7 @@ Em nossa disciplina, o **BD Empresa** será utilizado para ilustrar conceitos e 
 
 Então, vamos nos apropriar (memorizar?) dos requisitos de dados do BD Empresa.
 
-### Atividade (data limite: **xx/xx/xxxx 23h59min59s**)
+### Atividade (data limite: **03/03/2021 23h59min59s**)
 
 Criar uma _issue_ no projeto https://github.com/plinioleitao/bcc-bd-2020-2, com o título "Tópico 03", para responder conforme a seguir:  
 1. Leia e releia os requisitos de dados pertinentes ao **BD Empresa**. Identifique 05 (cinco) pontos de imprecisão nos requisitos, conforme o exemplo abaixo.<br>
