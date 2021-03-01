@@ -32,7 +32,7 @@ O **acesso** e a **interpretação** dos dados são, essencialmente, baseados no
 
 No contexto da área de Banco de Dados, a literatura usa vários termos para se referir aos metadados, alguns deles são: *esquema de dados*, *descrição de dados*, *definição dos dados*, *dicionário de dados*, *catágodo de dados*.
 
-## Atividade (data limite: **xx/xx/xxxx 23h59min59s**)
+## Atividade (data limite: **10/03/2021 23h59min59s**)
 
 Criar uma _issue_ no projeto https://github.com/plinioleitao/bcc-bd-2020-2, com o título "Tópico 05", para responder:  
 1. O livro sugerido [1], Capítulo 1, usa os termos ***processamento de arquivos tradicional*** e ***abordagem de banco de dados*** para se referir a duas estratégias de acesso aos dados. Leia sobre esse conteúdo e compare esses termos, em relação ao:
