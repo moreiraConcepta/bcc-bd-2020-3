@@ -14,7 +14,8 @@ Os momentos síncronos ocorrerão na sala [https://meet.google.com/tcz-ntej-xad]
 
 ### Avisos ativos
 
-- Importante: O **Tópico T01** se refere à criação de um repositório **público** no **GitHub** para cada aluno.
+- Ao criar uma *isue*, selecione um dos *templates*: **Tópico** ou **Dúvida**.
+- O *Tópico T01* se refere à criação de um repositório **público** para cada aluno.
 <br>
 <br>
 <img src="./media/campaign-creators-IKHvOlZFCOg-unsplash.jpg" width="350">
