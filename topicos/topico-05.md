@@ -30,7 +30,7 @@ O **acesso** e a **interpretação** dos dados são, essencialmente, baseados no
 - Qual o conteúdo por trás desta sequência de caracteres (ou de bits)?
 - etc.
 
-No contexto da área de Banco de Dados, a literatura usa vários termos para se referir aos metadados, alguns deles são: *esquema de dados*, *descrição de dados*, *definição dos dados*, *dicionário de dados*, *catágodo de dados*.
+No contexto da área de Banco de Dados, a literatura usa vários termos para se referir aos metadados, alguns deles são: *esquema de dados*, *descrição de dados*, *definição dos dados*, *dicionário de dados*, *catálogo de dados*.
 
 ## Atividade (data limite: **10/03/2021 23h59min59s**)
 
