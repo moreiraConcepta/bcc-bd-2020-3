@@ -1,4 +1,6 @@
 ### Tópicos cobertos até o momento:
+[Tópico T08](./topico-08.md) - Modelo Entidade Relacionamento (MER)<br>
+[Tópico T07](./topico-07.md) - Modelo de dados<br>
 [Tópico T06](./topico-06.md) - Sistema gerenciador de banco de dados<br>
 [Tópico T05](./topico-05.md) - Dados e metadados<br>
 [Tópico T04](./topico-04.md) - Requisitos de dados - BD Locadora de Veículos<br>
