@@ -45,7 +45,7 @@ Considere o seguinte parágrafo:
 
 Criar uma _issue_ no projeto https://github.com/plinioleitao/bcc-bd-2020-2, com o título "Tópico 07", para responder:  
 
-1. O parágrafo acima se refere à abstração de dados na percepção do banco de dados por distintas categorias de usuários. Se modelos de bancos de dados são recursos empregados para guiar a especificação de esquemas de bancos de dados, então podemos afirmar que **o projeto de banco de dados envolve a aplicação de vários modelos de dados, os quais possuem níveis de abstração distintos entre si**? (Responda Sim/Não e tente justificar a sua resposta).
+1. O parágrafo acima se refere à abstração de dados na percepção do banco de dados por distintas categorias de usuários. Se modelos de bancos de dados são recursos empregados para guiar a especificação de esquemas de bancos de dados, então podemos afirmar que **o projeto de banco de dados envolve a aplicação de vários modelos de dados, os quais possuem níveis de abstração distintos entre si**? (Responda Sim/Não e justifique a sua resposta).
    
 ## Artefatos
 
