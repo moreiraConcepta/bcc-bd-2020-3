@@ -1,4 +1,5 @@
 ## [Tópico T05] - Dados e metadados
+###### *by Prof. Plinio Sa Leitao-Junior (INF/UFG)*
 
 **Definição abstrata de BD**: uma coleção de dados relacionados.
 
