@@ -6,10 +6,6 @@ Os momentos síncronos ocorrerão na sala [https://meet.google.com/tcz-ntej-xad]
 
 ### Tópicos recentes
 
-- [Tópico 01](topicos/topico-01.md) (data limite: **03/03/2021 23h59min59s**)
-- [Tópico 02](topicos/topico-02.md) (data limite: **03/03/2021 23h59min59s**)
-- [Tópico 03](topicos/topico-03.md) (data limite: **03/03/2021 23h59min59s**)
-- [Tópico 04](topicos/topico-04.md) (data limite: **03/03/2021 23h59min59s**)
 - [Tópico 05](topicos/topico-05.md) (data limite: **10/03/2021 23h59min59s**)
 - [Tópico 06](topicos/topico-06.md) (data limite: **10/03/2021 23h59min59s**)
 - [Tópico 07](topicos/topico-07.md) (data limite: **10/03/2021 23h59min59s**)
