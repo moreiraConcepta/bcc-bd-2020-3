@@ -1,4 +1,6 @@
 ### Tópicos cobertos até o momento:
+[Tópico T10](./topico-10.md) - Modelo Entidade Relacionamento (MER) - Demanda informacional<br>
+[Tópico T09](./topico-09.md) - Modelo Entidade Relacionamento (MER) - *Checklist*<br>
 [Tópico T08](./topico-08.md) - Modelo Entidade Relacionamento (MER)<br>
 [Tópico T07](./topico-07.md) - Modelo de dados<br>
 [Tópico T06](./topico-06.md) - Sistema gerenciador de banco de dados<br>
